@@ -1,0 +1,15 @@
+# 重なり防止（HUD Fix）の設定
+# x:8 y:-20 -> x:5 y:-8  #FFFF22
+# x:5 y:-45 -> x:5 y:-28 #FFFFFF
+
+[Protector Redo 用設定]
+
+hud_fix_protector_x (Protector X微調整) int 8 -500 500
+hud_fix_protector_y (Protector Y微調整) int -20 -500 500
+hud_fix_protector_color (Protector 表示色) string #FFFF22
+
+[Areas 用設定]
+
+hud_fix_areas_x (Areas X微調整) int 5 -500 500
+hud_fix_areas_y (Areas Y微調整) int -45 -500 500
+hud_fix_areas_color (Areas 表示色) string #FFFFFF
