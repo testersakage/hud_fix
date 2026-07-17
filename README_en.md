@@ -1,6 +1,6 @@
 # HUD Fix for Luanti (Minetest)
 
-<img width=413, height=136, src="https://github.com/testersakage/hud_fix/blob/master/screenshots/hud_fix.png"></img>
+<img width=413, height=136, src="https://github.com/testersakage/hud_fix/blob/main/screenshots/hud_fix.png"></img>
 
 [Japanese Documentation (README.md)](./README.md)
 
