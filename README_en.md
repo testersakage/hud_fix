@@ -46,3 +46,5 @@ Go to Luanti's main menu ＞ **Settings** ＞ **Content: Mods** ＞ select **`hu
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+AI-generated: This package contains AI-generated assets or code
