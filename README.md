@@ -6,7 +6,7 @@
 
 
 Luanti（旧Minetest）において、複数のModが画面左下の同じ位置にHUD（情報表示）を配置して重なってしまう現象を解消・調停するModです。
-デフォルトでは、領域保護系Modの **「Areas」** と **「Protector Redo」** のテキストが完全に重なってしまう問題を解決します。
+デフォルトでは、領域保護系Modの **「[Areas](https://github.com/minetest-mods/areas/)」** と **「[Protector Redo](https://codeberg.org/tenplus1/protector)」** のテキストが完全に重なってしまう問題を解決します。
 
 ## ✨ 主な機能
 
@@ -42,7 +42,7 @@ Luantiのメインメニューから **「設定 (Settings)」** ＞ **「コン
 ## 依存関係 (Dependencies)
 
 - **必須**: なし (Optional Depends 経由で動作するため、単体で導入してもエラーになりません)
-- **対応Mod**: `areas`, `protector` (Protector Redo)
+- **対応Mod**: [`Areas`](https://github.com/minetest-mods/areas/), [`Protector`](https://codeberg.org/tenplus1/protector) (Protector Redo)
 
 ## 📄 ライセンス (License)
 

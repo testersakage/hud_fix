@@ -5,7 +5,7 @@
 [Japanese Documentation (README.md)](./README.md)
 
 A Luanti (formerly Minetest) mod that resolves and layout-adjusts HUD (heads-up display) overlap text elements in the lower-left corner when multiple mods are used simultaneously. 
-By default, it fixes the issue where the text from **"Areas"** and **"Protector Redo"** overlap and become unreadable.
+By default, it fixes the issue where the text from **"[Areas](https://github.com/minetest-mods/areas/)"** and **"[Protector Redo](https://codeberg.org/tenplus1/protector)"** overlap and become unreadable.
 
 ## ✨ Features
 
@@ -41,7 +41,7 @@ Go to Luanti's main menu ＞ **Settings** ＞ **Content: Mods** ＞ select **`hu
 ## Dependencies
 
 - **Required**: None (Safe to enable even without the target mods installed)
-- **Supported Mods**: `areas`, `protector` (Protector Redo)
+- **Supported Mods**: [`Areas`](https://github.com/minetest-mods/areas/), [`Protector Redo`](https://codeberg.org/tenplus1/protector) (Protector Redo)
 
 ## 📄 License
 
