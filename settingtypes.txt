@@ -1,15 +1,21 @@
-# 重なり防止（HUD Fix）の設定
-# x:8 y:-20 -> x:5 y:-8  #FFFF22
-# x:5 y:-45 -> x:5 y:-28 #FFFFFF
+# ==========================================
+# 重なり防止・位置調整（HUD Fix）設定
+# ==========================================
 
-[Protector Redo 用設定]
+[Protector Redo Settings]
 
-hud_fix_protector_x (Protector X微調整) int 8 -500 500
-hud_fix_protector_y (Protector Y微調整) int -20 -500 500
-hud_fix_protector_color (Protector 表示色) string #FFFF22
+hud_fix_protector_x (Protector X Offset / 左下からの横位置) int 8 -500 500
+hud_fix_protector_y (Protector Y Offset / 左下からの縦位置) int -20 -500 500
+hud_fix_protector_color (Protector HUD Color / 文字色) string #FFFF22
 
-[Areas 用設定]
+[Chunk Protection Settings]
 
-hud_fix_areas_x (Areas X微調整) int 5 -500 500
-hud_fix_areas_y (Areas Y微調整) int -45 -500 500
-hud_fix_areas_color (Areas 表示色) string #FFFFFF
+hud_fix_chunk_x (Chunk Protect X Offset / 左下からの横位置) int 8 -500 500
+hud_fix_chunk_y (Chunk Protect Y Offset / 左下からの縦位置) int -40 -500 500
+hud_fix_chunk_color (Chunk Protect HUD Color / 文字色) string #FFFFFF
+
+[Areas Settings]
+
+hud_fix_areas_x (Areas X Offset / 左下からの横位置) int 5 -500 500
+hud_fix_areas_y (Areas Y Offset / 左下からの縦位置) int -85 -500 500
+hud_fix_areas_color (Areas HUD Color / 文字色) string #FFFFFF
